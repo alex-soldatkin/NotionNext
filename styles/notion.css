@@ -1681,6 +1681,10 @@ code[class*='language-'] {
   color: inherit;
 }
 
+.notion-page-link:hover {
+  color: #707070; /* Change to grey on hover */
+}
+
 svg.notion-page-icon {
   /* @apply hidden;*/
 }
