@@ -62,7 +62,7 @@ nav {
 }
 
 nav#home-nav-button > a {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(67, 1, 1, 0.1);
   backdrop-filter: blur(5px);
   border-radius: 0.5rem;
   transition: all 0.5s cubic-bezier(0.4, 0, 0, 1);
