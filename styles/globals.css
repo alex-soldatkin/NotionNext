@@ -61,7 +61,7 @@ nav {
   -ms-overflow-style: none;
 }
 
-nav#home-nav-button{
+nav#home-nav-button > a {
   /* make these buttons glassy transparent by default, more opaque on hover */
   background-color: rgba(255, 255, 255, 0.1);
   /* backdrop-filter: blur(5px); */
