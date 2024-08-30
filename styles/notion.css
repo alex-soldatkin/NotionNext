@@ -1683,6 +1683,10 @@ code[class*='language-'] {
 
 .notion-page-link:hover {
   color: #707070; /* Change to grey on hover */
+  /* underline animation on hover */
+  text-decoration: underline;
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.1em;
 }
 
 svg.notion-page-icon {
