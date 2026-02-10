@@ -1,0 +1,878 @@
+
+> notion-next@4.9.1 dev
+> next dev
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3002
+  - Environments: .env.local
+  - Experiments (use with caution):
+    · scrollRestoration
+
+ ✓ Starting...
+[默认主题] /Users/alexandersoldatkin/projects/NotionNext/themes/hexo
+ ⚠ Found lockfile missing swc dependencies, patching...
+warning ../../package.json: No license field
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+ ✓ Ready in 2.6s
+ ✓ Compiled /middleware in 478ms (215 modules)
+ ⚠ Lockfile was successfully patched, please run "npm install" to ensure @next/swc dependencies are downloaded
+ ○ Compiling / ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+ ✓ Compiled / in 7.2s (2894 modules)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+ ✓ Compiled in 8s (2894 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:3355ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652 Type: undefined
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET / 200 in 7532ms
+ GET / 200 in 18913ms
+ ✓ Compiled /[prefix]/[slug] in 328ms (2911 modules)
+ GET /fonts/inter-var.woff2 200 in 764ms
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:3639ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652 Type: undefined
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET / 200 in 3693ms
+ ✓ Compiled in 188ms (1258 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:2762ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652
+[Notion数据] 可用 Block IDs (前5个): [
+  '11cf2435-0e44-8065-ae7d-c6f493f35652',
+  '11cf2435-0e44-81e2-abcc-e7717e7eda4c',
+  '11cf2435-0e44-8047-807a-ef31b6ec9c5e',
+  '11cf2435-0e44-805d-a306-c064b9fe7ed2',
+  '11cf2435-0e44-808b-a987-cd0f1dce9923'
+]
+[Notion数据] 找到目标 Block, Type: undefined Has Value: true
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET /_next/data/development/en-US.json 200 in 2826ms
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:1880ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652
+[Notion数据] 可用 Block IDs (前5个): [
+  '11cf2435-0e44-8065-ae7d-c6f493f35652',
+  '11cf2435-0e44-81e2-abcc-e7717e7eda4c',
+  '11cf2435-0e44-8047-807a-ef31b6ec9c5e',
+  '11cf2435-0e44-805d-a306-c064b9fe7ed2',
+  '11cf2435-0e44-808b-a987-cd0f1dce9923'
+]
+[Notion数据] 找到目标 Block, Type: undefined Has Value: true
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET / 200 in 1907ms
+ ✓ Compiled in 190ms (1248 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:2848ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652
+[Notion数据] 可用 Block IDs (前5个): [
+  '11cf2435-0e44-8065-ae7d-c6f493f35652',
+  '11cf2435-0e44-81e2-abcc-e7717e7eda4c',
+  '11cf2435-0e44-8047-807a-ef31b6ec9c5e',
+  '11cf2435-0e44-805d-a306-c064b9fe7ed2',
+  '11cf2435-0e44-808b-a987-cd0f1dce9923'
+]
+[Notion数据] 找到目标 Block, JSON: {"spaceId":"98207efb-e159-481d-8bc0-d6126d896e8e","value":{"value":{"id":"11cf2435-0e44-8065-ae7d-c6f493f35652","version":848,"type":"collection_view_page","content":["11cf2435-0e44-81e2-abcc-e7717e7eda4c"],"view_ids":["11cf2435-0e44-81c7-b023-000ce01c4568","145f2435-0e44-8050-b17c-000c4394009e","145f2435-0e44-80c7-ac7a-000c404b3c18","142f2435-0e44-803e-bdd7-000cc983d878","13ff2435-0e44-8054-ba63-000cbd13458d","11cf2435-0e44-8155-9b00-000c268631fd","11cf2435-0e44-8198-83e6-000c02f5122f","13ef243
+[Notion数据] 找到目标 Block, Type: undefined Has Value: true
+[Notion数据] Collection IDs: [ '11cf2435-0e44-81f7-8e80-000b248d559f' ]
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET / 200 in 2950ms
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+ GET /_next/data/development/en-US.json 200 in 191ms
+[API<<--响应] 耗时:1824ms - from:index
+[Notion数据] 检查页面类型: 11cf2435-0e44-8065-ae7d-c6f493f35652
+[Notion数据] 可用 Block IDs (前5个): [
+  '11cf2435-0e44-8065-ae7d-c6f493f35652',
+  '11cf2435-0e44-81e2-abcc-e7717e7eda4c',
+  '11cf2435-0e44-8047-807a-ef31b6ec9c5e',
+  '11cf2435-0e44-805d-a306-c064b9fe7ed2',
+  '11cf2435-0e44-808b-a987-cd0f1dce9923'
+]
+[Notion数据] 找到目标 Block, JSON: {"spaceId":"98207efb-e159-481d-8bc0-d6126d896e8e","value":{"value":{"id":"11cf2435-0e44-8065-ae7d-c6f493f35652","version":848,"type":"collection_view_page","content":["11cf2435-0e44-81e2-abcc-e7717e7eda4c"],"view_ids":["11cf2435-0e44-81c7-b023-000ce01c4568","145f2435-0e44-8050-b17c-000c4394009e","145f2435-0e44-80c7-ac7a-000c404b3c18","142f2435-0e44-803e-bdd7-000cc983d878","13ff2435-0e44-8054-ba63-000cbd13458d","11cf2435-0e44-8155-9b00-000c268631fd","11cf2435-0e44-8198-83e6-000c02f5122f","13ef243
+[Notion数据] 找到目标 Block, Type: undefined Has Value: true
+[Notion数据] Collection IDs: [ '11cf2435-0e44-81f7-8e80-000b248d559f' ]
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database. Actual type: undefined. Collection ID: undefined
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+ GET / 200 in 1605ms
+ ✓ Compiled in 250ms (1248 modules)
+   Reload env: .env.local
+   Reload env: .env.local
+ ✓ Compiled in 1747ms (3109 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+ GET /_next/data/development/en-US.json 200 in 1775ms
+[API<<--响应] 耗时:2350ms - from:index
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+    at createPropError (webpack-internal:///./node_modules/next/dist/client/link.js:139:20)
+    at eval (webpack-internal:///./node_modules/next/dist/client/link.js:149:27)
+    at Array.forEach (<anonymous>)
+    at LinkComponent (webpack-internal:///./node_modules/next/dist/client/link.js:146:23)
+    at renderWithHooks (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5658:16)
+    at renderForwardRef (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5853:18)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6016:11)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderIndeterminateComponent (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5786:7)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5957:7)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderNode (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6270:12)
+    at renderHostElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5642:3)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET / 500 in 2667ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 603ms (2894 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+ ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+    at createPropError (webpack-internal:///./node_modules/next/dist/client/link.js:139:20)
+    at eval (webpack-internal:///./node_modules/next/dist/client/link.js:149:27)
+    at Array.forEach (<anonymous>)
+    at LinkComponent (webpack-internal:///./node_modules/next/dist/client/link.js:146:23)
+    at renderWithHooks (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5658:16)
+    at renderForwardRef (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5853:18)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6016:11)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderIndeterminateComponent (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5786:7)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5957:7)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderNode (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6270:12)
+    at renderHostElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5642:3) {
+  page: '/'
+}
+ ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+    at createPropError (webpack-internal:///./node_modules/next/dist/client/link.js:139:20)
+    at eval (webpack-internal:///./node_modules/next/dist/client/link.js:149:27)
+    at Array.forEach (<anonymous>)
+    at LinkComponent (webpack-internal:///./node_modules/next/dist/client/link.js:146:23)
+    at renderWithHooks (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5658:16)
+    at renderForwardRef (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5853:18)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6016:11)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderIndeterminateComponent (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5786:7)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5957:7)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderNode (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6270:12)
+    at renderHostElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5642:3) {
+  page: '/'
+}
+[API<<--响应] 耗时:1855ms - from:index
+pageId "11cf2435-0e44-8065-ae7d-c6f493f35652" is not a database
+Warning: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://reactjs.org/link/invalid-hook-call for tips about how to debug and fix this problem.
+Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+    at createPropError (webpack-internal:///./node_modules/next/dist/client/link.js:139:20)
+    at eval (webpack-internal:///./node_modules/next/dist/client/link.js:149:27)
+    at Array.forEach (<anonymous>)
+    at LinkComponent (webpack-internal:///./node_modules/next/dist/client/link.js:146:23)
+    at renderWithHooks (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5658:16)
+    at renderForwardRef (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5853:18)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6016:11)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderIndeterminateComponent (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5786:7)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5957:7)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderNode (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6270:12)
+    at renderHostElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5642:3)
+ ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+    at createPropError (webpack-internal:///./node_modules/next/dist/client/link.js:139:20)
+    at eval (webpack-internal:///./node_modules/next/dist/client/link.js:149:27)
+    at Array.forEach (<anonymous>)
+    at LinkComponent (webpack-internal:///./node_modules/next/dist/client/link.js:146:23)
+    at renderWithHooks (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5658:16)
+    at renderForwardRef (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5853:18)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6016:11)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderIndeterminateComponent (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5786:7)
+    at renderElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5957:7)
+    at renderNodeDestructiveImpl (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6115:11)
+    at renderNodeDestructive (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6087:14)
+    at renderNode (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:6270:12)
+    at renderHostElement (/Users/alexandersoldatkin/projects/NotionNext/node_modules/react-dom/cjs/react-dom-server.browser.development.js:5642:3) {
+  page: '/'
+}
+ GET / 500 in 2169ms
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+Deleted existing sitemap.xml from public directory
+Deleted existing sitemap.xml from root directory
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3002
+  - Environments: .env.local
+  - Experiments (use with caution):
+    · scrollRestoration
+
+ ✓ Starting...
+[默认主题] /Users/alexandersoldatkin/projects/NotionNext/themes/hexo
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+ ✓ Ready in 2.5s
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled /middleware in 367ms (215 modules)
+ ○ Compiling / ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+ ✓ Compiled / in 7.2s (2899 modules)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+ ✓ Compiled in 7.8s (2899 modules)
+[API-->>请求] from:index id:11cf24350e448065ae7dc6f493f35652 
+[API<<--响应] 耗时:2937ms - from:index
+[API-->>请求] from:config-table id:11cf2435-0e44-810c-8306-f7a37a49fa2e 
+[API<<--响应] 耗时:958ms - from:config-table
+[API-->>请求] from:data-notice id:11cf2435-0e44-81a3-bd22-c4d250b67fe0 
+[API<<--响应] 耗时:287ms - from:data-notice
+[RSS订阅] 生成/rss/feed.xml
+[API-->>请求] from:rss-content id:e7580069-75c0-489b-9ed7-a6dab797905d 
+ GET / 200 in 15191ms
+[API<<--响应] 耗时:370ms - from:rss-content
+[API-->>请求] from:rss-content id:20ef2435-0e44-804a-a714-c4f69d1c4899 
+[API<<--响应] 耗时:799ms - from:rss-content
+[API-->>请求] from:rss-content id:28cf2435-0e44-8020-a048-f61a1a650a0e 
+[API<<--响应] 耗时:911ms - from:rss-content
+[API-->>请求] from:rss-content id:294f2435-0e44-80bf-9ac6-fe2b651abe8d 
+[API<<--响应] 耗时:583ms - from:rss-content
+[API-->>请求] from:rss-content id:296f2435-0e44-809e-8a4a-c757c6f99751 
+[API<<--响应] 耗时:486ms - from:rss-content
+[API-->>请求] from:rss-content id:296f2435-0e44-8042-b30c-ef911705b051 
+[API<<--响应] 耗时:591ms - from:rss-content
+ ○ Compiling /404 ...
+ GET / 404 in 1010ms
+ ✓ Compiled /404 in 1923ms (2903 modules)
+ ✓ Compiled /_error in 395ms (2903 modules)
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3002
+  - Environments: .env.local
+  - Experiments (use with caution):
+    · scrollRestoration
+    · largePageDataBytes
+
+ ✓ Starting...
+[默认主题] /Users/alexandersoldatkin/projects/NotionNext/themes/hexo
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/lucide-icons isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/date-fns isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/react-native-web isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@tamagui/react-native-web-lite isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+ ✓ Ready in 2.8s
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-arm64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-win32-x64-msvc isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-x64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-gnu isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@next/swc-linux-arm64-musl isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/sunos-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/openbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/netbsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-mips64el isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/linux-loong64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/freebsd-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/android-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@esbuild/aix-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-win32-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-ppc64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-riscv64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-windows-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-wasm32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-win32-ia32 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-darwin-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/@cloudflare/workerd-linux-64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linuxmusl-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-s390x isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-darwin-x64 isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Managed item /Users/alexandersoldatkin/node_modules/miniflare/node_modules/@img/sharp-libvips-linux-arm isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
