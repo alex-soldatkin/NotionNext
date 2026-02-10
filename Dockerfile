@@ -15,6 +15,8 @@ RUN yarn install --frozen-lockfile
 FROM base AS builder
 ARG NOTION_PAGE_ID
 ENV NEXT_BUILD_STANDALONE=true
+ENV NODE_OPTIONS="--max-old-space-size=4096"
+ENV NEXT_TELEMETRY_DISABLED=1
 
 WORKDIR /app
 
